@@ -7,3 +7,6 @@ This repository was initialized from the local `git` folder.
 
 # 分支演示
 这是在新分支上添加的内容。
+
+# main 上的独立提交
+这一行只在 main 上。
